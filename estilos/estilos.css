@@ -58,8 +58,8 @@
     
     .card {
       min-height: 100%;
-      background: #e2e37e;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      background: #f0bb5ae5;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
       display: flex;
       flex-direction: column;
       text-decoration: none;
@@ -110,7 +110,7 @@
     .card span {
       font-size: 12px;
       font-weight: bold;
-      color: #999;
+      color: rgb(59, 59, 59);
       text-transform: uppercase;
       letter-spacing: .05em;
       margin: 2em 0 0 0;
