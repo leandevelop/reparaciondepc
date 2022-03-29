@@ -3,10 +3,9 @@
       background: #f5f7f8;
       font-family: 'Roboto', sans-serif;
       -webkit-font-smoothing: antialiased;
-      padding: 20px 0;
     }
 
-    /*body {
+    body {
         margin: 0;
     }
     
@@ -15,15 +14,14 @@
     }
     
     .ly_container {
-      position: relative;
+      position: fixed;
       width: 100%;
     }
     
     .ly_bg {
       width: 100%;
-      height: 100vh;
+      height: 100%;
     }
-    */
     
     .band {
       width: 90%;
