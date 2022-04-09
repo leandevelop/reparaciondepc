@@ -41,7 +41,7 @@ class App {
 
 	createScene() {
 		this.scene = new THREE.Scene();
-    this.scene.fog = new THREE.Fog(0x0d0d0d, 4000, 6000);
+    	this.scene.fog = new THREE.Fog(0x0d0d0d, 4000, 6000);
 
 		this.renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
 		this.renderer.setClearColor(new THREE.Color(0x0d0d0d));
